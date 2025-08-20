@@ -1,0 +1,14 @@
+C:\Users\jpt\source\repos\AutoCadTestProject2\bin\Debug\net8.0\AutoCadTestProject2.deps.json
+C:\Users\jpt\source\repos\AutoCadTestProject2\bin\Debug\net8.0\AutoCadTestProject2.dll
+C:\Users\jpt\source\repos\AutoCadTestProject2\bin\Debug\net8.0\AutoCadTestProject2.pdb
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0\AutoCadTestProject2.csproj.AssemblyReference.cache
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0\AutoCadTestProject2.Properties.Resources.resources
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0\AutoCadTestProject2.csproj.GenerateResource.cache
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0\AutoCadTestProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0\AutoCadTestProject2.AssemblyInfoInputs.cache
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0\AutoCadTestProject2.AssemblyInfo.cs
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0\AutoCadTestProject2.csproj.CoreCompileInputs.cache
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0\AutoCadTestProject2.dll
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0\refint\AutoCadTestProject2.dll
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0\AutoCadTestProject2.pdb
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0\ref\AutoCadTestProject2.dll

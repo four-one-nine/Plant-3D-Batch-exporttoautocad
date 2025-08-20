@@ -22,15 +22,7 @@
 //version 1: headless commands, pnid commands, overwrite existent (no request for empty folder), check if file exists, check if destination folder is design folder -> stop if so
 //version 2: list dwgs not by dwg.AbsoluteFileName (original path) but by dwg.ResolvedFilePath, create folder system in destination folder, complete error handling, removed final message from HL command
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-
 using Autodesk.AutoCAD.Runtime;
-using AcadApp = Autodesk.AutoCAD.ApplicationServices.Application;
-using System.Windows.Forms;
-using Autodesk.AutoCAD.EditorInput;
 
 
 [assembly: CommandClass(typeof(BatchExports.Commands))]

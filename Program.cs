@@ -27,6 +27,8 @@ using PlantApp = Autodesk.ProcessPower.PlantInstance.PlantApplication;
 using Autodesk.AutoCAD.Windows;
 using Autodesk.AutoCAD.EditorInput;
 using System;
+using System.Windows.Forms;
+using OpenFileDialog = Autodesk.AutoCAD.Windows.OpenFileDialog;
 
 namespace BatchExports
 {

@@ -1,0 +1,14 @@
+C:\Users\jpt\source\repos\AutoCadTestProject2\bin\Debug\net8.0-windows\REWBatchExportsToAutoCAD.deps.json
+C:\Users\jpt\source\repos\AutoCadTestProject2\bin\Debug\net8.0-windows\REWBatchExportsToAutoCAD.dll
+C:\Users\jpt\source\repos\AutoCadTestProject2\bin\Debug\net8.0-windows\REWBatchExportsToAutoCAD.pdb
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0-windows\REWBatchExportsToAutoCAD.csproj.AssemblyReference.cache
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0-windows\REWBatchExportsToAutoCAD.Properties.Resources.resources
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0-windows\REWBatchExportsToAutoCAD.csproj.GenerateResource.cache
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0-windows\REWBatchExportsToAutoCAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0-windows\REWBatchExportsToAutoCAD.AssemblyInfoInputs.cache
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0-windows\REWBatchExportsToAutoCAD.AssemblyInfo.cs
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0-windows\REWBatchExportsToAutoCAD.csproj.CoreCompileInputs.cache
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0-windows\REWBatchExportsToAutoCAD.dll
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0-windows\refint\REWBatchExportsToAutoCAD.dll
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0-windows\REWBatchExportsToAutoCAD.pdb
+C:\Users\jpt\source\repos\AutoCadTestProject2\obj\Debug\net8.0-windows\ref\REWBatchExportsToAutoCAD.dll
